@@ -23,12 +23,12 @@ body {
 }
 
 .box .face1 {
-  background: url(/assets/fill_bottle.png);
+  background: url(./assets/fill_bottle.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 .box .face2 {
-  background: url(/assets/empty_bottle.png);
+  background: url(./assets/empty_bottle.png);
   background-repeat: no-repeat;
   background-position: center;
 }
